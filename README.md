@@ -26,3 +26,4 @@ Libre
 # Probar la firma
 # Commit de prueba final
 # Verificación final GPG
+# Commit con correo correcto
