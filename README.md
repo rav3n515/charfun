@@ -25,3 +25,4 @@ Jose Luis Estenaga Trinidad
 Libre
 # Probar la firma
 # Commit de prueba final
+# Verificación final GPG
